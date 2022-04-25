@@ -2,8 +2,8 @@
 <me>
 
 <about me>
- - Currently in High School
- - 18 Years Old
+ - Currently studying Computer Science
+ - 19 Years Old
 </about me>
 
 <interests>
