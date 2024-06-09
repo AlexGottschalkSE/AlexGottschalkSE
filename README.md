@@ -3,7 +3,7 @@
 
 <about me>
  - Currently studying Computer Science
- - 20 Years Old
+ - 21 Years Old
 </about me>
 
 <interests>
